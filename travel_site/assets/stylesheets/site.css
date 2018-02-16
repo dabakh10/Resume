@@ -1,0 +1,59 @@
+h1 {
+  font-size: 60px;
+  text-transform: uppercase;
+  font-stretch: extra-expanded;
+  text-align: center;
+  letter-spacing: 5px;
+  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h1.title_page {
+  font-size: 40px;
+}
+
+.red_text{
+  color: red;
+}
+
+.large_text{
+  font-size: 75px;
+}
+li.large_text {
+  margin-left: 50px;
+}
+ul.navbar {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: blue;
+}
+
+ul.navbar li {
+  float: left;
+
+}
+
+ul.navbar li a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  padding-right: 50px;
+  padding: 20px;
+  display: block;
+}
+ul.navbar li a:hover{
+  color:
+}
+.clearfix{
+  clear: both;
+}
+
+
+.left {
+
+}
+
+.right {
+  
+}
